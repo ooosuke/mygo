@@ -1,0 +1,1 @@
+docker build -t mygo:0.1 . && docker run --rm mygo:0.1
